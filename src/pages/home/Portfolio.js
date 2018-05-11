@@ -17,10 +17,10 @@ export default function Portfolio() {
       </Column>
       <Column>
         <Link>trackacompany.com</Link>
+        <Link>witnessquest.com</Link>
         <Link>panda.support</Link>
         <Link>naturesproductsforme.com</Link>
         <Link>solarpartnr.com</Link>
-        <Link>leadranker.com</Link>
         <Link>learningsuite.byu.edu</Link>
       </Column>
     </Wrapper>
